@@ -1,0 +1,335 @@
+
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": " <a target=\"_blank\" href=''>Oskar Schnappauf</a>",
+          "credit": ""
+        },
+        "text": {
+          "headline": "Welcome to<br>my professional <br>timeline",
+          "text": "<p>Oskar Schnappauf, Ph.D., FACMG</p>"
+        }
+    },
+
+    "events": [
+      {
+        "media": {
+          "url": "",
+          "caption": "Universität Bayreuth",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_uni_bayreuth.gif"
+        },
+        "start_date": {
+          "year": "2004",
+          "month":"9"
+        },
+        "end_date": {
+        "year": "2006",
+          "month":"7"
+        },
+        "text": {
+          "headline": "UNDERGRADUATE STUDIES IN BIOLOGY",
+          "text": "<p>University of Bayreuth, Bayreuth, Germany</p>"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/11Yuyv5tGPal90V_yaAD4eKOLZH4yAujR/view?usp=sharing",
+          "caption": "Diplom mit Auszeichnung",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg/1920px-Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg.png"
+        },
+        "start_date": {
+          "year": "2006",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2010",
+          "month":"6"
+        },
+        "text": {
+          "headline": "GRADUATE STUDIES IN BIOLOGY",
+          "text": "<p>Johannes Gutenberg University, Mainz, Germany</p>"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.google.com/maps/place/Lissabon,+Portugal/@38.9132281,-9.1813826,8.91z/data=!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366",
+          "caption": "Lissabon - Portugal"
+        },
+        "start_date": {
+          "year": "2007",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2008",
+          "month":"8"
+        },
+        "text": {
+          "headline": "ERASMUS PROGRAM - BIOLOGY",
+          "text": "Universidade de Lisboa, Lisbon, Portugal"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1LdvRetU5bgODq58y4pFJVe1W0gXODXJm/view?usp=sharing",
+          "caption": "Certificates - Clinical Molecular Genetics and Clinical Cytogenetics"
+        },
+        "start_date": {
+          "year": "2017",
+          "month": "1"
+        },
+        "end_date": {
+          "year": "2020",
+          "month": "7"
+        },
+        "text": {
+          "headline": "LABORATORY GENETICS AND GENOMICS TRAINING",
+          "text": "National Human Genome Research Institute, Bethesda, USA"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2022",
+          "month":"5"
+        },
+        "text": {
+          "headline": "CLINICAL GENETICIST TRAINING",
+          "text": "Synlab - Human Genetics and German Society of Human Genetics, Freiburg im Breisgau, Germany"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2010",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2015",
+          "month":"4"
+        },
+        "text": {
+          "headline": "DOCTORAL CANDIDATE",
+          "text": "Max Planck Institute of Immunobiology and Epigenetics and Institute of Molecular Medicine and Cell Research, Freiburg im Breisgau, Germany"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2015",
+          "month":"6"
+        },
+        "end_date": {
+        "year": "2016",
+          "month":"7"
+        },
+        "text": {
+          "headline": "POSTDOCTORAL FELLOW",
+          "text": "Institute of Molecular Medicine and Cell Research, Freiburg im Breisgau, Germany"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.google.com/maps/place/Innovation+Health+Partners+GmbH/@52.5167547,13.3778895,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851c6921d48e3:0xa5b3a917ee94a4d4!8m2!3d52.5167547!4d13.3800782",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2016",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2016",
+          "month":"12"
+        },
+        "text": {
+          "headline": "PROJECT MANAGER",
+          "text": "Innovation Health Partners, Berlin, Germany"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1NhNSyJaM4nDBSCJcUf6fJQKdwQIF_BnW/view?usp=sharing",
+          "caption": "National Human Genome Research Institute, The Forefront of Genomics"
+        },
+        "start_date": {
+          "year": "2017",
+          "month":"1"
+        },
+        "end_date": {
+        "year": "2019",
+          "month":"6"
+        },
+        "text": {
+          "headline": "POSTDOCTORAL FELLOW",
+          "text": "National Human Genome Research Institute, Bethesda, USA"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1X62qJJFVw_pSECtUiiztSxF7Yfp84NZ8/view?usp=sharing",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"6"
+        },
+        "end_date": {
+        "year": "2020",
+          "month":"7"
+        },
+        "text": {
+          "headline": "ASSOCIATE DIRECTOR INFLAMMATORY DISEASE SECTION",
+          "text": "National Human Genome Research Institute, Bethesda, USA"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2022",
+          "month":"9"
+        },
+        "text": {
+          "headline": "CLINICAL GENETICIST",
+          "text": "Synlab - Human Genetics, Freiburg im Breisgau, Germany"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/16cgm7p-KWa2tFBT8y7ov42IZmkQ4ecur/view?usp=sharing",
+          "caption": "Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms"
+        },
+        "start_date": {
+          "year": "2016",
+          "month":"11"
+        },
+        "text": {
+          "headline": "Enhancer decommissioning by Snail1-induced competitive displacement of TCF7L2 and down-regulation of transcriptional activators results in EPHB2 silencing",
+          "text": "Schnappauf, O.,Beyes, S., Dertmann, A., Freihen, V., et al."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/15PnXR87-uWvwymlR-Nra5FsUvu7GAqB8/view?usp=sharing",
+          "caption": "Journal of Allergy and Clinical Immunology"
+        },
+        "start_date": {
+          "year": "2018",
+          "month":"6"
+        },
+        "text": {
+          "headline": "Disrupted N-linked glycosylation as a disease mechanism in deficiency of ADA2",
+          "text": "Lee PY, Huang Y, Zhou Q, Schnappauf O., et al."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1TlcQJNtUre8DVnODG661ZeZccJHWEXPE/view?usp=sharing",
+          "caption": "The Journal of Rheumatology"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"8"
+        },
+        "text": {
+          "headline": "Thirty Years of Followup in 3 Patients with Familial Polyarteritis Nodosa due to Adenosine Deaminase 2 Deficiency",
+          "text": "Liebowitz J., Hellmann D., Schnappauf O."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1aJjlpdDoOCkKfUasoMbX_V6pboHgR5po/view?usp=sharing",
+          "caption": "Frontiers in Immunology"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"8"
+        },
+        "text": {
+          "headline": "The Pyrin Inflammasome in Health and Disease",
+          "text": "Schnappauf O., Chae J., Kastner D., Aksentijevich I."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+       {
+        "media": {
+          "url": "https://drive.google.com/file/d/1eSnQLA_LQtCNxa1soBFTfpcM063_7b7B/view?usp=sharing",
+          "caption": "Rheumatology"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"11"
+        },
+        "text": {
+          "headline": "Current and future advances in genetic testing in systemic autoinflammatory diseases",
+          "text": "Schnappauf O. and Aksentijevich I."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      }
+    ]
+}
