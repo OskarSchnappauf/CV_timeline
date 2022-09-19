@@ -2,21 +2,21 @@
 {
     "title": {
         "media": {
-          "url": "",
-          "caption": " <a target=\"_blank\" href=''>Oskar Schnappauf</a>",
-          "credit": ""
+          "url": "https://flic.kr/p/2nMErxG",
+          "caption": " <a target=\"_blank\" href=''></a>",
+          "credit": "Oskar Schnappauf, PhD, FACMG"
         },
         "text": {
           "headline": "Professional <br>timeline",
-          "text": "<p>Education and Work experience</p>"
+          "text": "Oskar Schnappauf<br>+49 157 88224454<br>Fedderstrasse 4<br>79106 Freiburg im Breisgau<br>oskar.schnappauf@gmail.com<br>American and German Citizienship"
         }
     },
 
     "events": [
       {
         "media": {
-          "url": "",
-          "caption": "Universität Bayreuth",
+          "url": "https://flic.kr/p/2nMEy5p",
+          "caption": "",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_uni_bayreuth.gif"
         },
         "start_date": {
@@ -37,8 +37,8 @@
       },
       {
         "media": {
-          "url": "",
-          "caption": "Diplom mit Auszeichnung",
+          "url": "https://www.flickr.com/photos/196529259@N03/shares/06691u112C",
+          "caption": "",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg/1920px-Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg.png"
         },
         "start_date": {
@@ -123,19 +123,9 @@
       
       
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
       {
         "media": {
-          "url": "",
+          "url": "https://photos.google.com/photo/AF1QipNWsH6Hmw3LgvUt4N471WWv1NRjM87WsIe1_j_N",
           "caption": ""
         },
         "start_date": {
@@ -177,7 +167,7 @@
       },
       {
         "media": {
-          "url": "https://www.google.com/maps/place/Innovation+Health+Partners+GmbH/@52.5167547,13.3778895,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851c6921d48e3:0xa5b3a917ee94a4d4!8m2!3d52.5167547!4d13.3800782",
+          "url": "https://cdn.pixabay.com/photo/2017/08/27/20/10/png-2687339_1280.png",
           "caption": ""
         },
         "start_date": {
@@ -198,7 +188,7 @@
       },
       {
         "media": {
-          "url": "",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/US-NIH-NHGRI-Logo.svg/1280px-US-NIH-NHGRI-Logo.svg.png",
           "caption": "National Human Genome Research Institute, The Forefront of Genomics"
         },
         "start_date": {
