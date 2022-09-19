@@ -15,7 +15,8 @@
       {
         "media": {
           "url": "https://flic.kr/p/2nMzPNz",
-          "caption": "Diploma Degree"
+          "caption": "Diploma Degree",
+          "thumbnail": "https://flic.kr/p/2nMFYFE"
         },
         "start_date": {
           "year": "2010",
@@ -53,7 +54,8 @@
       {
         "media": {
           "url": "https://flic.kr/p/2nMEQGC",
-          "caption": "Clinical Molecular Genetics"
+          "caption": "Clinical Molecular Genetics",
+          "thumbnail":"https://flic.kr/p/2nMLt44"
         },
         "start_date": {
           "year": "2019",
@@ -90,7 +92,8 @@
       {
         "media": {
           "url": "https://flic.kr/p/2nMERvB",
-          "caption": "Clinical Cytogenetics"
+          "caption": "Clinical Cytogenetics",
+          "thumbnail":"https://flic.kr/p/2nMLt44"
         },
         "start_date": {
           "year": "2020",
