@@ -7,8 +7,8 @@
           "credit": ""
         },
         "text": {
-          "headline": "Welcome to<br>my professional <br>timeline",
-          "text": "<p>Oskar Schnappauf, Ph.D., FACMG</p>"
+          "headline": "Professional <br>timeline",
+          "text": "<p>Education and Work experience</p>"
         }
     },
 
@@ -37,7 +37,7 @@
       },
       {
         "media": {
-          "url": "https://drive.google.com/file/d/11Yuyv5tGPal90V_yaAD4eKOLZH4yAujR/view?usp=sharing",
+          "url": "",
           "caption": "Diplom mit Auszeichnung",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg/1920px-Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg.png"
         },
@@ -80,8 +80,8 @@
       },
       {
         "media": {
-          "url": "https://drive.google.com/file/d/1LdvRetU5bgODq58y4pFJVe1W0gXODXJm/view?usp=sharing",
-          "caption": "Certificates - Clinical Molecular Genetics and Clinical Cytogenetics"
+          "url": "",
+          "caption": ""
         },
         "start_date": {
           "year": "2017",
@@ -113,13 +113,26 @@
           "month":"5"
         },
         "text": {
-          "headline": "CLINICAL GENETICIST TRAINING",
+          "headline": "HUMAN GENETICIST TRAINING (FACHHUMANGENETIKER)",
           "text": "Synlab - Human Genetics and German Society of Human Genetics, Freiburg im Breisgau, Germany"
         },
         "group": {
           "text": "Education"
         }
       },
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       {
         "media": {
           "url": "",
@@ -185,7 +198,7 @@
       },
       {
         "media": {
-          "url": "https://drive.google.com/file/d/1NhNSyJaM4nDBSCJcUf6fJQKdwQIF_BnW/view?usp=sharing",
+          "url": "",
           "caption": "National Human Genome Research Institute, The Forefront of Genomics"
         },
         "start_date": {
@@ -206,7 +219,7 @@
       },
       {
         "media": {
-          "url": "https://drive.google.com/file/d/1X62qJJFVw_pSECtUiiztSxF7Yfp84NZ8/view?usp=sharing",
+          "url": "",
           "caption": ""
         },
         "start_date": {
@@ -218,7 +231,7 @@
           "month":"7"
         },
         "text": {
-          "headline": "ASSOCIATE DIRECTOR INFLAMMATORY DISEASE SECTION",
+          "headline": "ASSOCIATE DIRECTOR - INFLAMMATORY DISEASE SECTION",
           "text": "National Human Genome Research Institute, Bethesda, USA"
         },
         "group": {
@@ -239,96 +252,11 @@
           "month":"9"
         },
         "text": {
-          "headline": "CLINICAL GENETICIST",
+          "headline": "CLINICAL GENETICIST AND SCIENTIFIC RESEARCHER",
           "text": "Synlab - Human Genetics, Freiburg im Breisgau, Germany"
         },
         "group": {
           "text": "Work experience"
-        }
-      },
-      {
-        "media": {
-          "url": "https://drive.google.com/file/d/16cgm7p-KWa2tFBT8y7ov42IZmkQ4ecur/view?usp=sharing",
-          "caption": "Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms"
-        },
-        "start_date": {
-          "year": "2016",
-          "month":"11"
-        },
-        "text": {
-          "headline": "Enhancer decommissioning by Snail1-induced competitive displacement of TCF7L2 and down-regulation of transcriptional activators results in EPHB2 silencing",
-          "text": "Schnappauf, O.,Beyes, S., Dertmann, A., Freihen, V., et al."
-        },
-        "group": {
-          "text": "Publication"
-        }
-      },
-      {
-        "media": {
-          "url": "https://drive.google.com/file/d/15PnXR87-uWvwymlR-Nra5FsUvu7GAqB8/view?usp=sharing",
-          "caption": "Journal of Allergy and Clinical Immunology"
-        },
-        "start_date": {
-          "year": "2018",
-          "month":"6"
-        },
-        "text": {
-          "headline": "Disrupted N-linked glycosylation as a disease mechanism in deficiency of ADA2",
-          "text": "Lee PY, Huang Y, Zhou Q, Schnappauf O., et al."
-        },
-        "group": {
-          "text": "Publication"
-        }
-      },
-      {
-        "media": {
-          "url": "https://drive.google.com/file/d/1TlcQJNtUre8DVnODG661ZeZccJHWEXPE/view?usp=sharing",
-          "caption": "The Journal of Rheumatology"
-        },
-        "start_date": {
-          "year": "2019",
-          "month":"8"
-        },
-        "text": {
-          "headline": "Thirty Years of Followup in 3 Patients with Familial Polyarteritis Nodosa due to Adenosine Deaminase 2 Deficiency",
-          "text": "Liebowitz J., Hellmann D., Schnappauf O."
-        },
-        "group": {
-          "text": "Publication"
-        }
-      },
-      {
-        "media": {
-          "url": "https://drive.google.com/file/d/1aJjlpdDoOCkKfUasoMbX_V6pboHgR5po/view?usp=sharing",
-          "caption": "Frontiers in Immunology"
-        },
-        "start_date": {
-          "year": "2019",
-          "month":"8"
-        },
-        "text": {
-          "headline": "The Pyrin Inflammasome in Health and Disease",
-          "text": "Schnappauf O., Chae J., Kastner D., Aksentijevich I."
-        },
-        "group": {
-          "text": "Publication"
-        }
-      },
-       {
-        "media": {
-          "url": "https://drive.google.com/file/d/1eSnQLA_LQtCNxa1soBFTfpcM063_7b7B/view?usp=sharing",
-          "caption": "Rheumatology"
-        },
-        "start_date": {
-          "year": "2019",
-          "month":"11"
-        },
-        "text": {
-          "headline": "Current and future advances in genetic testing in systemic autoinflammatory diseases",
-          "text": "Schnappauf O. and Aksentijevich I."
-        },
-        "group": {
-          "text": "Publication"
         }
       }
     ]

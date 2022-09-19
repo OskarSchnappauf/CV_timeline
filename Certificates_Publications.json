@@ -1,0 +1,232 @@
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": " <a target=\"_blank\" href=''>Oskar Schnappauf</a>",
+          "credit": ""
+        },
+        "text": {
+          "headline": "Achievements",
+          "text": "<p>Certificates and Publications</p>"
+        }
+    },
+
+    "events": [
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/11Yuyv5tGPal90V_yaAD4eKOLZH4yAujR/view?usp=sharing",
+          "caption": "Diploma Degree"
+        },
+        "start_date": {
+          "year": "2010",
+          "month":"7",
+          "day":"12"
+          
+        },
+        "text": {
+          "headline": "Diploma Degree - Johannes Gutenberg University",
+          "text": "With Award"
+        },
+        "group": {
+          "text": "Certificate"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1Qf9yNWBkb0x8PqMKhZYKiABVCWcjPGl0/view?usp=sharing",
+          "caption": "Doctoral Certificate"
+        },
+        "start_date": {
+          "year": "2015",
+          "month":"4",
+          "day":"15"
+          
+        },
+        "text": {
+          "headline": "Doctoral Certificate - University of Freiburg",
+          "text": "Magna Cum Laude"
+        },
+        "group": {
+          "text": "Certificate"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1tZJzCkpWnCrRiQspoVVYJJ_fnRAKqroW/view?usp=sharing",
+          "caption": "Clinical Molecular Genetics"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"6"
+          
+        },
+        "text": {
+          "headline": "NIH Medical Genetics & Genomics Fellowship Training Program",
+          "text": "2017-2019"
+        },
+        "group": {
+          "text": "Certificate"
+        }
+      },
+       {
+        "media": {
+          "url": "https://drive.google.com/file/d/1mOPUv95dmTXEgZFGg9G9xvQHtVOjhK4I/view?usp=sharing",
+          "caption": "ACMG certificate"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"1",
+          "day":"6"
+          
+        },
+        "text": {
+          "headline": "American College of Medical and Genomics",
+          "text": "Fellow Member"
+        },
+        "group": {
+          "text": "Certificate"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1cxMS4uh7O5CO6L_vlALAb2F_ghaz9Nol/view?usp=sharing",
+          "caption": "Clinical Cytogenetics"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"6"
+          
+        },
+        "text": {
+          "headline": "NIH Medical Genetics & Genomics Fellowship Training Program",
+          "text": "2019-2020"
+        },
+        "group": {
+          "text": "Certificate"
+        }
+      },
+       {
+        "media": {
+          "url": "https://drive.google.com/file/d/1_8FpTzqIo09eibaJAA6QNQUx0c7CKGFg/view?usp=sharing",
+          "caption": "ABMGG Certificate - Clinical Molecular Genetics and Genomics"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"9",
+          "day":"1"
+          
+        },
+        "text": {
+          "headline": "Diplomate of the American Board of Medical Genetics and Genomics",
+          "text": "Clinical Molecular Genetics and Genomics"
+        },
+        "group": {
+          "text": "Certificate"
+        }
+      },
+       {
+        "media": {
+          "url": "https://drive.google.com/file/d/1lhXUfXOHES-M-7OniJfa5ZJeuaUStnp-/view?usp=sharing",
+          "caption": "ABMGG Certificate - Laboratory Genetics and Genomics"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"9",
+          "day":"1"
+          
+        },
+        "text": {
+          "headline": "Diplomate of the American Board of Medical Genetics and Genomics",
+          "text": "Laboratory Genetics and Genomics"
+        },
+        "group": {
+          "text": "Certificate"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/16cgm7p-KWa2tFBT8y7ov42IZmkQ4ecur/view?usp=sharing",
+          "caption": "Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms"
+        },
+        "start_date": {
+          "year": "2016",
+          "month":"11"
+        },
+        "text": {
+          "headline": "Enhancer decommissioning by Snail1-induced competitive displacement of TCF7L2 and down-regulation of transcriptional activators results in EPHB2 silencing",
+          "text": "Schnappauf, O.,Beyes, S., Dertmann, A., Freihen, V., et al."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/15PnXR87-uWvwymlR-Nra5FsUvu7GAqB8/view?usp=sharing",
+          "caption": "Journal of Allergy and Clinical Immunology"
+        },
+        "start_date": {
+          "year": "2018",
+          "month":"6"
+        },
+        "text": {
+          "headline": "Disrupted N-linked glycosylation as a disease mechanism in deficiency of ADA2",
+          "text": "Lee PY, Huang Y, Zhou Q, Schnappauf O., et al."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1TlcQJNtUre8DVnODG661ZeZccJHWEXPE/view?usp=sharing",
+          "caption": "The Journal of Rheumatology"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"5"
+        },
+        "text": {
+          "headline": "Thirty Years of Followup in 3 Patients with Familial Polyarteritis Nodosa due to Adenosine Deaminase 2 Deficiency",
+          "text": "Liebowitz J., Hellmann D., Schnappauf O."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1aJjlpdDoOCkKfUasoMbX_V6pboHgR5po/view?usp=sharing",
+          "caption": "Frontiers in Immunology"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"8"
+        },
+        "text": {
+          "headline": "The Pyrin Inflammasome in Health and Disease",
+          "text": "Schnappauf O., Chae J., Kastner D., Aksentijevich I."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+       {
+        "media": {
+          "url": "https://drive.google.com/file/d/1eSnQLA_LQtCNxa1soBFTfpcM063_7b7B/view?usp=sharing",
+          "caption": "Rheumatology"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"11"
+        },
+        "text": {
+          "headline": "Current and future advances in genetic testing in systemic autoinflammatory diseases",
+          "text": "Schnappauf O. and Aksentijevich I."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      }
+    ]
+}
