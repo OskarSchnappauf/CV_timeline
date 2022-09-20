@@ -221,6 +221,168 @@
         "group": {
           "text": "Publication"
         }
+      },
+       {
+        "media": {
+          "url": "https://flic.kr/p/2nMShsp",
+          "caption": "Journal of Clinical Rheumatology",
+          "thumbnail": "https://flic.kr/p/2nMRg3B"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"7"
+        },
+        "text": {
+          "headline": "Deficiency of Adenosine Deaminase 2 (DADA2): Hidden Variants, Reduced Penetrance, and Unusual Inheritance",
+          "text": "Schnappauf O., Zhou Q., Sampaio Moura N. et al."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2nMX8PS",
+          "caption": "Journal of Leukocyte Biology",
+          "thumbnail": "https://flic.kr/p/2nMRg3B"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"7"
+        },
+        "text": {
+          "headline": "Mendelian diseases of dysregulated canonical NF-kB signaling: From immunodeficiency to inflammation",
+          "text": "Schnappauf O. and Aksentijevich I."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+       {
+        "media": {
+          "url": "https://flic.kr/p/2nMWK9X",
+          "caption": "Journal of Allergy and Clinical Immunology",
+          "thumbnail": "https://flic.kr/p/2nMRg3B"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"6"
+        },
+        "text": {
+          "headline": "Deficiency of adenosine deaminase 2: Is it an elephant after all?",
+          "text": "Schnappauf O., Ombrello AK., Kastner DL."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2nMShrC",
+          "caption": "Zeitschrift für Rheumatologie",
+          "thumbnail": "https://flic.kr/p/2nMRg3B"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"9"
+        },
+        "text": {
+          "headline": "Genetic diagnostics of autoinflammatory diseases",
+          "text": "Schnappauf O."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2nMYH7z",
+          "caption": "Arthritis & Rheumatology",
+          "thumbnail": "https://flic.kr/p/2nMRg3B"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"3"
+        },
+        "text": {
+          "headline": "Sequence-based screening of patients with idiopathic polyarteritis nodosa, granulomatosis with polyangiitis, and microscopic polyangiitis for deleterious genetic variants in ADA2",
+          "text": "Schnappauf O., Sampaio Moura N., Aksentijevich I. et al."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2nMYSKU",
+          "caption": "Pediatric Rheumatology",
+          "thumbnail": "https://flic.kr/p/2nMRg3B"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"4"
+        },
+        "text": {
+          "headline": "Homozygous variant p. Arg90His in NCF1 is associated with early-onset Interferonopathy: a case report",
+          "text": "Schnappauf O., Heale L., Dissanayake D. et al."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2nMWK9g",
+          "caption": "Nature Reviews Rheumatology",
+          "thumbnail": "https://flic.kr/p/2nMRg3B"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"5"
+        },
+        "text": {
+          "headline": "Molecular mechanisms of phenotypic variability in monogenic autoinflammatory diseases",
+          "text": "Aksentijevich I. and Schnappauf O."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2nMXfxw",
+          "caption": "Journal of Allergy and Clinical Immunology",
+          "thumbnail": "https://flic.kr/p/2nMRg3B"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"11"
+        },
+        "text": {
+          "headline": "TNF inhibition in vasculitis management in adenosine deaminase 2 deficiency (DADA2)",
+          "text": "Deuitch N., Yang D., Lee P., Yu X., Sampaio Moura N., Schnappauf O. et al."
+        },
+        "group": {
+          "text": "Publication"
+        }
+      },
+      {
+        "media": {
+          "url": "https://flic.kr/p/2nMYnRV",
+          "caption": "American Journal of Medical Genetics",
+          "thumbnail": "https://flic.kr/p/2nMRg3B"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"8"
+        },
+        "text": {
+          "headline": "Phenotypic expansion of the BPTF-related neurodevelopmental disorder with dysmorphic facies and distal limb anomalies",
+          "text": "Glinton K., Hurst A., Bowling K., Cristian I., Haynes D., Adstamongkonkul D., Schnappauf O. et al."
+        },
+        "group": {
+          "text": "Publication"
+        }
       }
     ]
 }
