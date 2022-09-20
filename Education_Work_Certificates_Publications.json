@@ -1,17 +1,260 @@
 {
     "title": {
         "media": {
-          "url": "",
-          "caption": " <a target=\"_blank\" href=''>Oskar Schnappauf</a>",
-          "credit": ""
+          "url": "https://flic.kr/p/2nMRuDK",
+          "caption": " <a target=\"_blank\" href=''></a>",
+          "credit": "Oskar Schnappauf, PhD, FACMG"
         },
         "text": {
-          "headline": "Achievements",
-          "text": "<p>Certificates and Publications</p>"
+          "headline": "Oskar<br>Schnappauf",
+          "text": "Freiburg im Breisgau<br>oskar.schnappauf@gmail.com<br>American and German Citizenship"
         }
     },
 
     "events": [
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMSmtY"
+        },
+        "start_date": {
+          "year": "2004",
+          "month":"9"
+        },
+        "end_date": {
+        "year": "2006",
+          "month":"7"
+        },
+        "text": {
+          "headline": "UNDERGRADUATE STUDIES IN BIOLOGY",
+          "text": "<p>University of Bayreuth, Bayreuth, Germany</p>"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMKUCj"
+        },
+        "start_date": {
+          "year": "2006",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2010",
+          "month":"6"
+        },
+        "text": {
+          "headline": "GRADUATE STUDIES IN BIOLOGY",
+          "text": "<p>Johannes Gutenberg University, Mainz, Germany</p>"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.google.com/maps/place/Lissabon,+Portugal/@38.9132281,-9.1813826,8.91z/data=!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366",
+          "caption": "Lissabon - Portugal",
+          "thumbnail": "https://flic.kr/p/2nMSpaK"
+        },
+        "start_date": {
+          "year": "2007",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2008",
+          "month":"8"
+        },
+        "text": {
+          "headline": "ERASMUS PROGRAM - MOLECULAR GENETICS",
+          "text": "University of Lisbon, Lisbon, Portugal"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
+            {
+        "media": {
+          "url": "https://www.google.com/maps/place/National+Human+Genome+Research+Institute+(NHGRI)/@39.003571,-77.6616391,9z/data=!3m1!5s0x89b7c9585d376c4b:0x20223444047fba79!4m5!3m4!1s0x89b7cbe2580c5271:0xf6bebc5f1ef7bc88!8m2!3d39.003571!4d-77.101331",
+          "caption": "National Human Genome Research Institute",
+          "thumbnail": "https://flic.kr/p/2nMSXtP"
+        },
+        "start_date": {
+          "year": "2017",
+          "month":"1"
+        },
+        "end_date": {
+        "year": "2019",
+          "month":"6"
+        },
+        "text": {
+          "headline": "POSTDOCTORAL FELLOW",
+          "text": "National Human Genome Research Institute, Bethesda, USA"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+       {
+        "media": {
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMQTgf"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2022",
+          "month":"9"
+        },
+        "text": {
+          "headline": "CLINICAL GENETICIST AND SCIENTIFIC RESEARCHER",
+          "text": "Synlab - Human Genetics, Freiburg im Breisgau, Germany"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+     
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMzy1Y"
+        },
+        "start_date": {
+          "year": "2010",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2015",
+          "month":"4"
+        },
+        "text": {
+          "headline": "DOCTORAL CANDIDATE",
+          "text": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg im Breisgau, Germany"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+           "thumbnail": "https://flic.kr/p/2nMKUSQ"
+        },
+        "start_date": {
+          "year": "2015",
+          "month":"6"
+        },
+        "end_date": {
+        "year": "2016",
+          "month":"7"
+        },
+        "text": {
+          "headline": "POSTDOCTORAL FELLOW",
+          "text": "Institute of Molecular Medicine and Cell Research, Freiburg im Breisgau, Germany"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMS5Mg"
+        },
+        "start_date": {
+          "year": "2016",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2016",
+          "month":"12"
+        },
+        "text": {
+          "headline": "PROJECT MANAGER",
+          "text": "Innovation Health Partners, Berlin, Germany"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMSXtP"
+        },
+        "start_date": {
+          "year": "2017",
+          "month": "1"
+        },
+        "end_date": {
+          "year": "2020",
+          "month": "7"
+        },
+        "text": {
+          "headline": "LABORATORY GENETICS AND GENOMICS TRAINING",
+          "text": "National Human Genome Research Institute, Bethesda, USA"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMSXtP"
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"6"
+        },
+        "end_date": {
+        "year": "2020",
+          "month":"7"
+        },
+        "text": {
+          "headline": "ASSOCIATE DIRECTOR - INFLAMMATORY DISEASE SECTION",
+          "text": "National Human Genome Research Institute, Bethesda, USA"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
+       {
+        "media": {
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMSYEG"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"8"
+        },
+        "end_date": {
+        "year": "2022",
+          "month":"5"
+        },
+        "text": {
+          "headline": "HUMAN GENETICIST TRAINING (FACHHUMANGENETIKER)",
+          "text": "Synlab - Human Genetics and German Society of Human Genetics, Freiburg im Breisgau, Germany"
+        },
+        "group": {
+          "text": "Education"
+        }
+      },
       {
         "media": {
           "url": "https://flic.kr/p/2nMzPNz",
@@ -323,7 +566,7 @@
           "month":"4"
         },
         "text": {
-          "headline": "Homozygous variant p. Arg90His in NCF1 is associated with early-onset Interferonopathy: a case report",
+          "headline": "Homozygous variant p.Arg90His in NCF1 is associated with early-onset Interferonopathy: a case report",
           "text": "Schnappauf O., Heale L., Dissanayake D. et al."
         },
         "group": {

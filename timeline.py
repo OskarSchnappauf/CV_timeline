@@ -11,7 +11,7 @@ hide_streamlit_style = """
             footer {visibility: hidden;}
             </style>
             """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 #st.set_page_config(page_title='CV Oskar Schnappauf', page_icon=im)
 #with open( "style.css" ) as css:
 #    st.markdown( f'<style>{css.read()}</style>' , unsafe_allow_html= True)
@@ -36,14 +36,14 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 #st.header('Professional - OSKAR SCHNAPPAUF')
 
-with open('Education_Work.json', "r") as f:
+with open('Education_Work_Certificates_Publications.json', "r") as f:
     data = f.read()
 
 # render timeline
 timeline(data, height=1000)
 
-with open('Certificates_Publications.json', "r") as f:
-    data = f.read()
-
-# render timeline
-timeline(data, height=1000)
+# with open('Certificates_Publications.json', "r") as f:
+#     data = f.read()
+#
+# # render timeline
+# timeline(data, height=1000)

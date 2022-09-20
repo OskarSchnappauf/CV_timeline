@@ -7,8 +7,8 @@
           "credit": "Oskar Schnappauf, PhD, FACMG"
         },
         "text": {
-          "headline": "Professional <br>timeline",
-          "text": "Oskar Schnappauf<br>Freiburg im Breisgau<br>oskar.schnappauf@gmail.com<br>American and German Citizienship"
+          "headline": "Oskar<br>Schnappauf",
+          "text": "Freiburg im Breisgau<br>oskar.schnappauf@gmail.com<br>American and German Citizenship"
         }
     },
 
@@ -73,7 +73,7 @@
         },
         "text": {
           "headline": "ERASMUS PROGRAM - MOLECULAR GENETICS",
-          "text": "Universidade de Lisboa, Lisbon, Portugal"
+          "text": "University of Lisbon, Lisbon, Portugal"
         },
         "group": {
           "text": "Education"
@@ -124,8 +124,6 @@
         }
       },
      
-      
-      
       {
         "media": {
           "url": "",
