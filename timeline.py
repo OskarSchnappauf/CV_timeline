@@ -5,6 +5,13 @@ from streamlit_timeline import timeline
 from PIL import Image
 im = Image.open('IMG_7274k_colour_round_cut.png')
 st.set_page_config(page_title='CV Oskar Schnappauf', page_icon=im, layout="wide")
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 #st.set_page_config(page_title='CV Oskar Schnappauf', page_icon=im)
 #with open( "style.css" ) as css:
 #    st.markdown( f'<style>{css.read()}</style>' , unsafe_allow_html= True)
