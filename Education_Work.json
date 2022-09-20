@@ -15,9 +15,9 @@
     "events": [
       {
         "media": {
-          "url": "https://flic.kr/p/2nMEy5p",
+          "url": "",
           "caption": "",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_uni_bayreuth.gif"
+          "thumbnail": "https://flic.kr/p/2nMSmtY"
         },
         "start_date": {
           "year": "2004",
@@ -37,9 +37,9 @@
       },
       {
         "media": {
-          "url": "https://www.flickr.com/photos/196529259@N03/shares/06691u112C",
+          "url": "",
           "caption": "",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg/1920px-Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg.png"
+          "thumbnail": "https://flic.kr/p/2nMKUCj"
         },
         "start_date": {
           "year": "2006",
@@ -60,7 +60,8 @@
       {
         "media": {
           "url": "https://www.google.com/maps/place/Lissabon,+Portugal/@38.9132281,-9.1813826,8.91z/data=!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366",
-          "caption": "Lissabon - Portugal"
+          "caption": "Lissabon - Portugal",
+          "thumbnail": "https://flic.kr/p/2nMSpaK"
         },
         "start_date": {
           "year": "2007",
@@ -71,38 +72,40 @@
           "month":"8"
         },
         "text": {
-          "headline": "ERASMUS PROGRAM - BIOLOGY",
+          "headline": "ERASMUS PROGRAM - MOLECULAR GENETICS",
           "text": "Universidade de Lisboa, Lisbon, Portugal"
         },
         "group": {
           "text": "Education"
         }
       },
-      {
+            {
         "media": {
-          "url": "",
-          "caption": ""
+          "url": "https://www.google.com/maps/place/National+Human+Genome+Research+Institute+(NHGRI)/@39.003571,-77.6616391,9z/data=!3m1!5s0x89b7c9585d376c4b:0x20223444047fba79!4m5!3m4!1s0x89b7cbe2580c5271:0xf6bebc5f1ef7bc88!8m2!3d39.003571!4d-77.101331",
+          "caption": "National Human Genome Research Institute",
+          "thumbnail": "https://flic.kr/p/2nMSXtP"
         },
         "start_date": {
           "year": "2017",
-          "month": "1"
+          "month":"1"
         },
         "end_date": {
-          "year": "2020",
-          "month": "7"
+        "year": "2019",
+          "month":"6"
         },
         "text": {
-          "headline": "LABORATORY GENETICS AND GENOMICS TRAINING",
+          "headline": "POSTDOCTORAL FELLOW",
           "text": "National Human Genome Research Institute, Bethesda, USA"
         },
         "group": {
-          "text": "Education"
+          "text": "Work experience"
         }
       },
-      {
+       {
         "media": {
           "url": "",
-          "caption": ""
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMQTgf"
         },
         "start_date": {
           "year": "2020",
@@ -110,23 +113,24 @@
         },
         "end_date": {
         "year": "2022",
-          "month":"5"
+          "month":"9"
         },
         "text": {
-          "headline": "HUMAN GENETICIST TRAINING (FACHHUMANGENETIKER)",
-          "text": "Synlab - Human Genetics and German Society of Human Genetics, Freiburg im Breisgau, Germany"
+          "headline": "CLINICAL GENETICIST AND SCIENTIFIC RESEARCHER",
+          "text": "Synlab - Human Genetics, Freiburg im Breisgau, Germany"
         },
         "group": {
-          "text": "Education"
+          "text": "Work experience"
         }
       },
-      
+     
       
       
       {
         "media": {
-          "url": "https://photos.google.com/photo/AF1QipNWsH6Hmw3LgvUt4N471WWv1NRjM87WsIe1_j_N",
-          "caption": ""
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMzy1Y"
         },
         "start_date": {
           "year": "2010",
@@ -147,7 +151,8 @@
       {
         "media": {
           "url": "",
-          "caption": ""
+          "caption": "",
+           "thumbnail": "https://flic.kr/p/2nMKUSQ"
         },
         "start_date": {
           "year": "2015",
@@ -167,8 +172,9 @@
       },
       {
         "media": {
-          "url": "https://cdn.pixabay.com/photo/2017/08/27/20/10/png-2687339_1280.png",
-          "caption": ""
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMS5Mg"
         },
         "start_date": {
           "year": "2016",
@@ -188,29 +194,31 @@
       },
       {
         "media": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/US-NIH-NHGRI-Logo.svg/1280px-US-NIH-NHGRI-Logo.svg.png",
-          "caption": "National Human Genome Research Institute, The Forefront of Genomics"
+          "url": "",
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMSXtP"
         },
         "start_date": {
           "year": "2017",
-          "month":"1"
+          "month": "1"
         },
         "end_date": {
-        "year": "2019",
-          "month":"6"
+          "year": "2020",
+          "month": "7"
         },
         "text": {
-          "headline": "POSTDOCTORAL FELLOW",
+          "headline": "LABORATORY GENETICS AND GENOMICS TRAINING",
           "text": "National Human Genome Research Institute, Bethesda, USA"
         },
         "group": {
-          "text": "Work experience"
+          "text": "Education"
         }
       },
       {
         "media": {
           "url": "",
-          "caption": ""
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMSXtP"
         },
         "start_date": {
           "year": "2019",
@@ -228,10 +236,11 @@
           "text": "Work experience"
         }
       },
-      {
+       {
         "media": {
           "url": "",
-          "caption": ""
+          "caption": "",
+          "thumbnail": "https://flic.kr/p/2nMSYEG"
         },
         "start_date": {
           "year": "2020",
@@ -239,14 +248,14 @@
         },
         "end_date": {
         "year": "2022",
-          "month":"9"
+          "month":"5"
         },
         "text": {
-          "headline": "CLINICAL GENETICIST AND SCIENTIFIC RESEARCHER",
-          "text": "Synlab - Human Genetics, Freiburg im Breisgau, Germany"
+          "headline": "HUMAN GENETICIST TRAINING (FACHHUMANGENETIKER)",
+          "text": "Synlab - Human Genetics and German Society of Human Genetics, Freiburg im Breisgau, Germany"
         },
         "group": {
-          "text": "Work experience"
+          "text": "Education"
         }
       }
     ]
