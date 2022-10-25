@@ -22,20 +22,6 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 #st.header('CURRICULUM VITAE - OSKAR SCHNAPPAUF, PHD, FACMG')
 #col1, col2 = st.columns(2)
 
-# with col1:
-#    st.image(image, width=500)
-#    st.subheader('CLINICAL MOLECULAR GENETICIST')
-#
-# with col2:
-#    st.header("Contact")
-#    st.subheader('+49 157 88224454')
-#    st.subheader('Fedderstrasse 4')
-#    st.subheader('79106 Freiburg im Breisgau')
-#    st.subheader('oskar.schnappauf@gmail.com')
-#    st.subheader('American and German Citizienship')
-
-#st.header('Professional - OSKAR SCHNAPPAUF')
-
 with open('Education_Work_Certificates_Publications.json', "r") as f:
     data = f.read()
 
