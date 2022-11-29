@@ -395,6 +395,25 @@
       },
       {
         "media": {
+          "url": "https://flic.kr/p/2o32X7d",
+          "caption": "Logo GfH",
+           "thumbnail": "https://flic.kr/p/2o32X7d"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"11",
+          "day":"25"
+        },
+        "text": {
+          "headline": "Certificate - FACHHUMANGENETIKER (GfH)",
+          "text": "The German Society of Human Genetics (GfH)"
+        },
+        "group": {
+          "text": "Certificate"
+        }
+      },
+      {
+        "media": {
           "url": "https://flic.kr/p/2nMzSA3",
           "caption": "Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms",
           "thumbnail": "https://flic.kr/p/2nMRg3B"
