@@ -1,4 +1,4 @@
 [theme]
-#base="light"
+base="light"
 #primaryColor="#33A2FF"
 #font=sans
