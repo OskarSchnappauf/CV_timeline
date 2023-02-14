@@ -122,7 +122,24 @@
           "text": "Work experience"
         }
       },
-     
+     {
+        "media": {
+          "url": "https://flic.kr/p/2oh14AL",
+          "caption": "Hochschule Bonn-Rhein-Sieg",
+          "thumbnail": "https://flic.kr/p/2ogYxX6"
+        },
+        "start_date": {
+          "year": "2023",
+          "month":"3"
+        },
+        "text": {
+          "headline": "PROFESSOR HUMAN GENETICS",
+          "text": "Hochschule Bonn-Rhein-Sieg, Germany"
+        },
+        "group": {
+          "text": "Work experience"
+        }
+      },
       {
         "media": {
           "url": "",
@@ -405,7 +422,7 @@
           "day":"25"
         },
         "text": {
-          "headline": "Certificate - FACHHUMANGENETIKER (GfH)",
+          "headline": "Certificate - Fachhumangenetiker (GfH)",
           "text": "The German Society of Human Genetics (GfH)"
         },
         "group": {

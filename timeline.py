@@ -2,9 +2,10 @@
 
 import streamlit as st
 from streamlit_timeline import timeline
-from PIL import Image
-im = Image.open('IMG_7274k_colour_round_cut.png')
-st.set_page_config(page_title='CV Oskar Schnappauf', page_icon=im, layout="wide")
+#from PIL import Image
+#im = Image.open('IMG_7274k_colour_round_cut.png')
+#st.set_page_config(page_title='CV Oskar Schnappauf', page_icon=im, layout="wide")
+st.set_page_config(page_title='CV Oskar Schnappauf', layout="wide")
 hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
