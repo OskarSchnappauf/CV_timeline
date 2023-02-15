@@ -7,15 +7,15 @@
         },
         "text": {
           "headline": "Oskar<br>Schnappauf",
-          "text": "Freiburg im Breisgau<br>oskar.schnappauf@gmail.com<br>American and German Citizenship"
+          "text": "Rheinbach<br>oskar.schnappauf@gmail.com<br>American and German Citizenship"
         }
     },
 
     "events": [
       {
         "media": {
-          "url": "",
-          "caption": "",
+          "url": "https://www.google.com/maps/@49.9388922,11.577043,12z",
+          "caption": "Bayreuth - Germany",
           "thumbnail": "https://flic.kr/p/2nMSmtY"
         },
         "start_date": {
@@ -36,8 +36,8 @@
       },
       {
         "media": {
-          "url": "",
-          "caption": "",
+          "url": "https://www.google.com/maps/@50.0161329,8.2645017,11z",
+          "caption": "Mainz - Germany",
           "thumbnail": "https://flic.kr/p/2nMKUCj"
         },
         "start_date": {
@@ -58,7 +58,7 @@
       },
       {
         "media": {
-          "url": "https://www.google.com/maps/place/Lissabon,+Portugal/@38.9132281,-9.1813826,8.91z/data=!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366",
+          "url": "https://www.google.com/maps/@38.7436214,-9.1952226,12z",
           "caption": "Lissabon - Portugal",
           "thumbnail": "https://flic.kr/p/2nMSpaK"
         },
@@ -142,8 +142,8 @@
       },
       {
         "media": {
-          "url": "",
-          "caption": "",
+          "url": "https://www.google.com/maps/@47.9951019,7.8815625,12z",
+          "caption": "Freiburg im Breisgau - Germany",
           "thumbnail": "https://flic.kr/p/2nMzy1Y"
         },
         "start_date": {
@@ -186,8 +186,8 @@
       },
       {
         "media": {
-          "url": "",
-          "caption": "",
+          "url": "https://www.google.com/maps/@52.509269,13.4151131,8z",
+          "caption": "Berlin, Germany",
           "thumbnail": "https://flic.kr/p/2nMS5Mg"
         },
         "start_date": {
@@ -274,7 +274,7 @@
       },
       {
         "media": {
-          "url": "https://flic.kr/p/2nMzPNz",
+          "url": "",
           "caption": "Diploma Degree",
           "thumbnail": "https://flic.kr/p/2nMKUCj"
         },
@@ -294,7 +294,7 @@
       },
       {
         "media": {
-          "url": "https://flic.kr/p/2nMGeBG",
+          "url": "",
           "caption": "Doctoral Certificate",
           "thumbnail": "https://flic.kr/p/2nMKUSQ"
         },
